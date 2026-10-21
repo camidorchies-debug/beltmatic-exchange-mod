@@ -1,7 +1,7 @@
 # beltmatic-exchange-mod
-A mod to share machines of your beltmatic world with .bmx files (JSON) so you can copy paste the machine of someone esle in your world. I vibe coded a site [disponible soon] to make it work correctly and where you can share you machines with everyone ! 
+A mod to share machines of your beltmatic world with .bmx files (JSON) so you can copy paste the machine of someone else in your world. I vibe coded a site [disponible soon] to make it work correctly and where you can share you machines with everyone ! 
 # Beltmatic Exchange Mod
-
+The .zip is the uncompiled mod, made with chatgpt. to compile it, just open a terminal in the folder and type "build.bat" (you must indicate build.bat where is your game in the first place if it's not in the usual steam folder.
 A MelonLoader mod for Beltmatic that lets you export and import machine blueprints using the `.bmx` / `BMX1:` format.
 
 ## Features
